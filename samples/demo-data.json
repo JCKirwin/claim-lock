@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    { "name": "garlic-chicken", "description": "Pan-seared chicken thighs with roasted garlic" },
+    { "name": "mushroom-risotto", "description": "Arborio rice with wild mushrooms and parmesan" },
+    { "name": "lemon-pasta", "description": "Linguine with lemon cream sauce and capers" },
+    { "name": "herb-salmon", "description": "Oven-roasted salmon with dill and thyme" }
+  ],
+  "chefs": ["chef-alice", "chef-bob", "chef-carol", "chef-dave"],
+  "claimConfig": {
+    "ttlSeconds": 3,
+    "claimDirectory": "claims"
+  }
+}
