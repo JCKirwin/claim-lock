@@ -3,3 +3,6 @@ obj/
 *.user
 *.suo
 .vs/
+
+# Authoring-pipeline dispatch file - tooling state, never repo content
+.next-step-prompt.txt
